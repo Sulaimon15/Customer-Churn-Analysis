@@ -86,4 +86,18 @@ Data Analysis Expressions (DAX) is a programming language used for creating calc
 ![](Dashboard_1.png)
 Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwOGVjNTUtYmU0OC00YWY1LTk0NzEtM2NiZTdkYTEyMjRmIiwidCI6IjY2YzIxYTZiLTI2YzctNDNiYy04Mzg5LTMyYjhjMmU5MWRjZiJ9)
 
+## Insights
+1. There is a total of 10,000 customers in the organization
+2. The number of churned customers is 2,047
+3. Churned rate is 20.4%
+4. The country with the highest customers is France with a total of 5,014 customers
+5. Product 1 was the most purchased product with over 5000+ customers purchasing it
+6. The age group 51-60 has the highest churn rate
+7. Customers with credit scores less than 400 churned the most
+
+
+## Recommendations 
+
+
+
 
