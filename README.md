@@ -84,6 +84,8 @@ Data Analysis Expressions (DAX) is a programming language used for creating calc
 ## Dashboard
 
 ![](Dashboard_1.png)
+
+![](Dashboard2.png)
 Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwOGVjNTUtYmU0OC00YWY1LTk0NzEtM2NiZTdkYTEyMjRmIiwidCI6IjY2YzIxYTZiLTI2YzctNDNiYy04Mzg5LTMyYjhjMmU5MWRjZiJ9)
 
 ## Insights
@@ -94,9 +96,38 @@ Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwOG
 5. Product 1 was the most purchased product with over 5000+ customers purchasing it
 6. The age group 51-60 has the highest churn rate
 7. Customers with credit scores less than 400 churned the most
+8. Customers with credit card churn more than customers without credit card
+9. 
 
 
 ## Recommendations 
+1. From analysis it was observed that customers with credit cards churn more than customers without credit card. This may be due to one of the following reasons :
+   
+- **High Fees and Interest Rates** : Customers may be dissatisfied with the bank's credit card fees and high-interest rates.
+  
+  **Solution** : The bank could consider revisiting its fee structure, offering more competitive interest rates, or introducing perks to offset costs.
+  
+- **Competitive Offerings** : Customers may receive more attractive offers from competing banks, such as lower interest rates, better rewards, or introductory promotions.
+
+  **Solution** : Regularly reviewing and adjusting credit card offerings to remain competitive in the market can help retain customers.
+
+- **Security Concerns** : Instances of fraud, data breaches, or inadequate security measures can erode customer trust and prompt them to seek more secure options.
+
+    **Solution** : Strengthening security measures, implementing fraud detection systems, and transparently communicating security efforts can help address these concerns.
+
+2. It was also observed that customers between the age range of 51-60 had the highest churn rate. This may be due to one of the following factors :
+
+- **Retirement and Financial Planning** : Customers in this age range might be entering retirement, leading to changes in their financial needs and priorities.
+
+  **Solution** : The bank can offer specialized retirement planning services, investment options, and financial advisory services to cater to the unique needs of customers transitioning to retirement.
+
+- **Technology Adoption and Digital Services** : Some customers in this age group may feel overwhelmed or dissatisfied with the bank's digital services, especially if they are not user-friendly.
+
+  **Solution** : Offering user-friendly digital banking interfaces, providing educational resources on digital banking, and offering in-person assistance can help ease the transition to digital services.
+
+- **Health and Mobility Issues** : Health concerns or limited mobility may influence banking preferences, leading customers to seek more accessible or specialized banking services.
+  
+  **Solution** : Offering home banking services, specialized assistance for customers with mobility issues, or partnerships with local community services can enhance accessibility.
 
 
 
