@@ -6,8 +6,8 @@
 Customer churn, also known as customer attrition or customer turnover, refers to the phenomenon where customers cease their relationship with a business or service provider. It is a crucial metric for companies across various industries as retaining existing customers is generally more cost-effective than acquiring new ones.
 
 ## Problem Statement
-Our organization is struggling with customer churn due to the absence of real-time visibility into customer behavior and engagement.
-Without timely insights, our retention efforts are reactive rather than proactive. 
+XYZ organization is struggling with customer churn due to the absence of real-time visibility into customer behavior and engagement.
+Without timely insights, their retention efforts are reactive rather than proactive. 
 As a data analst you are to develop a comprehensive dashboard that provides real-time analytics on customer interactions, enabling the team to identify potential churn risks promptly and implement targeted retention strategies.
 
 ## Tools
@@ -96,7 +96,7 @@ Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwOG
 6. The age group 51-60 has the highest churn rate
 7. Customers with credit scores less than 400 churned the most
 8. Customers with credit card churn more than customers without credit card
-9. 
+   
 
 
 ## Recommendations 
