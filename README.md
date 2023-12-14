@@ -83,9 +83,8 @@ Data Analysis Expressions (DAX) is a programming language used for creating calc
 
 ## Dashboard
 
-![](Dashboard_1.png)
+![]()
 
-![](Dashboard2.png)
 Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwOGVjNTUtYmU0OC00YWY1LTk0NzEtM2NiZTdkYTEyMjRmIiwidCI6IjY2YzIxYTZiLTI2YzctNDNiYy04Mzg5LTMyYjhjMmU5MWRjZiJ9)
 
 ## Insights
