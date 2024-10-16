@@ -100,7 +100,7 @@ Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwOG
 
 
 ## Recommendations 
-1. From analysis it was observed that customers with credit cards churn more than customers without credit card. This may be due to one of the following reasons :
+1. From analysis it was observed that customers with credit cards churn more than customers without credit card. This may be due to the following reasons :
    
 - **High Fees and Interest Rates** : Customers may be dissatisfied with the bank's credit card fees and high-interest rates.
   
@@ -114,7 +114,7 @@ Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWMwOG
 
     **Solution** : Strengthening security measures, implementing fraud detection systems, and transparently communicating security efforts can help address these concerns.
 
-2. It was also observed that customers between the age range of 51-60 had the highest churn rate. This may be due to one of the following factors :
+2. It was also observed that customers between the age range of 51-60 had the highest churn rate. This may be due to the following factors :
 
 - **Retirement and Financial Planning** : Customers in this age range might be entering retirement, leading to changes in their financial needs and priorities.
 
